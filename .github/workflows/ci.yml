@@ -24,7 +24,7 @@ jobs:
         run: ./gradlew testDebugUnitTest
 
   check-ktlint:
-    name: Check ktlint
+    name: Check Ktlint
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
